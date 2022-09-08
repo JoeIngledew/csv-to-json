@@ -8,6 +8,7 @@ Node 16.x
 
 ### Preparing & running the application
 
+ - Run `npm install`
  - Add your input CSV to the `input` folder, and ensure it is named `input.csv` and is comma-seperated
  - Ensure the config is correct in `/input/config.json`
     - For every column you want to output as a JSON property, there must be a mapping configured

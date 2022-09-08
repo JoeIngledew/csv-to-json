@@ -1,0 +1,14 @@
+[
+    {
+        "source": "First name",
+        "target": "firstName"
+    },
+    {
+        "source": "Last name",
+        "target": "surname"
+    },
+    {
+        "source": "Postcode",
+        "target": "postcode"
+    }
+]

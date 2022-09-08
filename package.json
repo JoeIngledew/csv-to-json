@@ -1,0 +1,14 @@
+{
+  "name": "csv-to-sql",
+  "version": "1.0.0",
+  "description": "Transform a CSV to a JSON file, following a JSON configuration file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joe Ingledew",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
